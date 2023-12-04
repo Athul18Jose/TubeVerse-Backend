@@ -1,0 +1,152 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Angular",
+      "coverImg": "https://miro.medium.com/v2/resize:fit:783/1*Kj8Eq401fP2ecTY8r9B89Q.png",
+      "videoURL": "https://www.youtube.com/embed/k5E2AVpwsko?autoplay=1"
+    },
+    {
+      "id": "lpqnldjz",
+      "title": "React",
+      "coverImg": "https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124",
+      "videoURL": "https://www.youtube.com/embed/GlETPk&t=6s?autoplay=1"
+    },
+    {
+      "id": "lpqnncgv",
+      "title": "BERLIN | Official Trailer | Netflix India",
+      "coverImg": "https://wallpapers.com/images/hd/berlin-money-heist-vector-art-kvj75f712dxdsdy1.jpg",
+      "videoURL": "https://www.youtube.com/embed/ZONoMgeGAbI?autoplay=1"
+    },
+    {
+      "id": "lpqnqk98",
+      "title": "Sambar (Official Video) - ThirumaLi",
+      "coverImg": "https://geo-media.beatsource.com/image_size/1400x1400/f/6/9/f690ad7d-ef02-4016-bf06-8c1b05d649aa.jpg",
+      "videoURL": "https://www.youtube.com/embed/r6egHcGiUjs?autoplay=1"
+    },
+    {
+      "id": "lpqnsp37",
+      "title": "Figma Tutorial: 3D Carousel Slider",
+      "coverImg": "https://assets-global.website-files.com/59e16042ec229e00016d3a66/64309e7ce733f37f0a4c0880_Figma-rebrand-assets_Blog-hero.png",
+      "videoURL": "https://www.youtube.com/embed/XKSNDxp-I14?autoplay=1"
+    },
+    {
+      "id": "lpqnvw2w",
+      "title": "Poster Design - Masking in Photoshop",
+      "coverImg": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image9gdi-1690545903584.jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces",
+      "videoURL": "https://www.youtube.com/embed/-CIFGBcbPPg?autoplay=1"
+    },
+    {
+      "id": "lpqnyhn3",
+      "title": "14 Amazon Products for a Desk Setup",
+      "coverImg": "https://i.ytimg.com/vi/IJTL5QtTPiU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCkRL3a66vyg1i-jddlRjykNwBZeQ",
+      "videoURL": "https://www.youtube.com/embed/GRVrdcOTBCc?autoplay=1"
+    }
+  ],
+  "catagories": [
+    {
+      "id": 1,
+      "title": "Education",
+      "videos": [
+        {
+          "id": 1,
+          "title": "Angular",
+          "coverImg": "https://miro.medium.com/v2/resize:fit:783/1*Kj8Eq401fP2ecTY8r9B89Q.png",
+          "videoURL": "https://www.youtube.com/embed/k5E2AVpwsko?autoplay=1"
+        },
+        {
+          "id": "lpqnldjz",
+          "title": "React",
+          "coverImg": "https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124",
+          "videoURL": "https://www.youtube.com/embed/GlETPk&t=6s?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lpqo4g72",
+      "title": "Movie",
+      "videos": [
+        {
+          "id": "lpqnncgv",
+          "title": "BERLIN | Official Trailer | Netflix India",
+          "coverImg": "https://wallpapers.com/images/hd/berlin-money-heist-vector-art-kvj75f712dxdsdy1.jpg",
+          "videoURL": "https://www.youtube.com/embed/ZONoMgeGAbI?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lpqo4zo8",
+      "title": "Music",
+      "videos": [
+        {
+          "id": "lpqnqk98",
+          "title": "Sambar (Official Video) - ThirumaLi",
+          "coverImg": "https://geo-media.beatsource.com/image_size/1400x1400/f/6/9/f690ad7d-ef02-4016-bf06-8c1b05d649aa.jpg",
+          "videoURL": "https://www.youtube.com/embed/r6egHcGiUjs?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lpqo5mi5",
+      "title": "UI/UX",
+      "videos": [
+        {
+          "id": "lpqnsp37",
+          "title": "Figma Tutorial: 3D Carousel Slider",
+          "coverImg": "https://assets-global.website-files.com/59e16042ec229e00016d3a66/64309e7ce733f37f0a4c0880_Figma-rebrand-assets_Blog-hero.png",
+          "videoURL": "https://www.youtube.com/embed/XKSNDxp-I14?autoplay=1"
+        },
+        {
+          "id": "lpqnvw2w",
+          "title": "Poster Design - Masking in Photoshop",
+          "coverImg": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image9gdi-1690545903584.jpg?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces",
+          "videoURL": "https://www.youtube.com/embed/-CIFGBcbPPg?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lpqnss0j",
+      "time": "08/04/2023 2:08 PM",
+      "title": "Sambar (Official Video) - ThirumaLi",
+      "videoURL": "https://www.youtube.com/embed/r6egHcGiUjs?autoplay=1"
+    },
+    {
+      "id": "lpqnvysj",
+      "time": "10/04/2023 2:10 PM",
+      "title": "Figma Tutorial: 3D Carousel Slider",
+      "videoURL": "https://www.youtube.com/embed/XKSNDxp-I14?autoplay=1"
+    },
+    {
+      "id": "lpqnwak6",
+      "time": "11/04/2023 2:11 PM",
+      "title": "Figma Tutorial: 3D Carousel Slider",
+      "videoURL": "https://www.youtube.com/embed/XKSNDxp-I14?autoplay=1"
+    },
+    {
+      "id": "lpqo2hqx",
+      "time": "15/04/2023 2:15 PM",
+      "title": "Angular",
+      "videoURL": "https://www.youtube.com/embed/k5E2AVpwsko?autoplay=1"
+    },
+    {
+      "id": "lpqo2lra",
+      "time": "15/04/2023 2:15 PM",
+      "title": "Sambar (Official Video) - ThirumaLi",
+      "videoURL": "https://www.youtube.com/embed/r6egHcGiUjs?autoplay=1"
+    },
+    {
+      "id": "lpqo2owy",
+      "time": "16/04/2023 2:16 PM",
+      "title": "Figma Tutorial: 3D Carousel Slider",
+      "videoURL": "https://www.youtube.com/embed/XKSNDxp-I14?autoplay=1"
+    },
+    {
+      "id": "lpqo2rsj",
+      "time": "16/04/2023 2:16 PM",
+      "title": "14 Amazon Products for a Desk Setup",
+      "videoURL": "https://www.youtube.com/embed/GRVrdcOTBCc?autoplay=1"
+    }
+  ]
+}
